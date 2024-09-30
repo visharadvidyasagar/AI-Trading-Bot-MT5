@@ -1,0 +1,25 @@
+The working of the bot with the source code is in the "MT5 Bot" folder.
+
+This bot requires accounts on the following platforms, which are 100% free to signup, with the trial pack or version.
+
+1. MetaTrader5 (MT5): https://www.metatrader5.com/en/download
+This needs to be downloaded and needs an account to be logged in. User can create a demo account for no risk scenarios.
+ 
+2. PineConnector: https://www.pineconnector.com/
+This just requires a valid signup and a passkey, which will be received on the registered email for the connection of MT5 with IC Market.
+
+3. JupyterNotebook: https://jupyter.org/
+This is required to execute the code and run the BOT, with all the Pyhton extensions mentioned below should be installed.
+
+pip install MetaTrader5
+pip install numpy
+pip install pandas
+
+After all is done, the bot is ready to work, and good to go to make some serious profits for a user, in the real-time./
+
+For the snapshots or screenshots please visit:
+https://drive.google.com/drive/folders/1K6Tzks9joKXLIAiF7obQUFhEQ3rrHFun?usp=sharing
+
+
+For contact or any query kindly, drop a mail at:
+visharadmishra1908@gmail.com
